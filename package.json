@@ -1,0 +1,19 @@
+{
+  "name": "software-2_soa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "3.12.1",
+    "axios": "^1.5.1",
+    "express": "^4.18.2",
+    "graphql": "16.8.1"
+  }
+}
